@@ -1,3 +1,4 @@
 a=float(input("Nhập a:"))
-a=a+2
-print(a)
+b=float(input("Nhập b:"))
+s=a+b
+print(s)
